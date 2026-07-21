@@ -1,7 +1,5 @@
 <!-- BANNER CHÍNH ĐỘNG (Bạn có thể thay link GIF này bằng cái bạn thích) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZmeHdrdWszN2hxYm5tMXMxaXF1Zncza2JqYW1wOW14Z2lzazVvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Hacker Matrix Banner" />
-</p>
+
 <div align="center">
   <h3>🏙️ My Commit City (3D Cyberpunk View)</h3>
   <!-- Hiển thị phiên bản phối màu Night Green cực ngầu -->
@@ -9,8 +7,9 @@
 </div>
 <br/>
 <div align="center">
-  <h3>🏙️ Contribution Isometric City</h3>
-  <img src="./github-metrics.svg" alt="Metrics 3D Calendar" width="100%" />
+<div align="center">
+  <h3>🏙️ My Commit City (3D Cyberpunk View)</h3>
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Taka 3D City" width="100%" />
 </div>
 <!-- HIỆU ỨNG GÕ CHỮ (Màu xanh neon đậm chất IT) -->
 <div align="center">
