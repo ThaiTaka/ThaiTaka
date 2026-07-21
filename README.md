@@ -4,7 +4,10 @@
 </p>
 
 <br/>
-
+<div align="center">
+  <h3>🏙️ Contribution Isometric City</h3>
+  <img src="./github-metrics.svg" alt="Metrics 3D Calendar" width="100%" />
+</div>
 <!-- HIỆU ỨNG GÕ CHỮ (Màu xanh neon đậm chất IT) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
