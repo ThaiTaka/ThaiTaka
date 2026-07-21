@@ -28,43 +28,4 @@
     "Teaching programming to my students"
   ]
 }
-name: generate animation
 
-on:
-  # Chạy mỗi ngày vào lúc 0 giờ
-  schedule:
-    - cron: "0 0 * * *" 
-  
-  # Chạy thủ công bất cứ lúc nào
-  workflow_dispatch:
-  
-  # Chạy khi có commit mới lên branch main
-  push:
-    branches:
-    - main
-    
-jobs:
-  generate:
-    permissions: 
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
-    steps:
-      # Chú rắn bò để tạo ra các file SVG
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ThaiTaka
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      # Đẩy các file SVG được tạo ra lên một branch đặc biệt (gọi là 'output')
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
