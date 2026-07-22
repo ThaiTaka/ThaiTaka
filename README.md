@@ -15,7 +15,13 @@
 </div>
 
 <br/>
+<!-- Ví dụ Badge Kỹ năng -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
+<!-- Badge GitHub Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=ThaiTaka&theme=dark)](https://git.io/streak-stats)
 ### 🛰️ Hệ Thống Module Taka (JSON View)
 
 ```json
