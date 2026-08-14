@@ -1,54 +1,107 @@
-<!-- BANNER CHÍNH ĐỘNG (Bạn có thể thay link GIF này bằng cái bạn thích) -->
+<!--
+  README.md — Lê Thành Thái (Taka) · github.com/ThaiTaka
+  Redesigned theme: "Tokyo Night" gradient (indigo/blue/purple)
+  Toàn bộ widget bên dưới đều là ảnh SVG public, không cần build gì thêm,
+  trừ phần "profile-3d-contrib" — cái này bạn đã có Action tự chạy rồi nên mình giữ nguyên.
+-->
+
 <div align="center">
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Taka 3D City" width="100%" />
-</div>
-<!-- HIỆU ỨNG GÕ CHỮ (Màu xanh neon đậm chất IT) -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=System.out.println('Hello+Taka!');Initialize+Core+Modules...;Current+Status:+[Senior+IT+Student];Primary+Goal:+Develop+TakaVision+v2.0" alt="Typing SVG" />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=L%C3%AA%20Th%C3%A0nh%20Th%C3%A1i%20%C2%B7%20Taka&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20IT%20Student%20%C2%B7%20%C4%90%C3%A0%20L%E1%BA%A1t%2C%20Vi%E1%BB%87t%20Nam&descAlignY=58&descAlign=50" width="100%" alt="header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=Sinh+vi%C3%AAn+CNTT+-+CTK46B+-+%C4%90H+%C4%90%C3%A0+L%E1%BA%A1t;Building+TakaVision+(Web3D+%2F+Unity);Kh%C3%A1m+ph%C3%A1+Computer+Vision+%26+YOLO;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Status-Sinh%20viên%20CNTT-7AA2F7?style=for-the-badge&labelColor=1a1b27" alt="status" />
+<img src="https://img.shields.io/badge/Trường-Đại%20học%20Đà%20Lạt-BB9AF7?style=for-the-badge&labelColor=1a1b27" alt="school" />
+<img src="https://img.shields.io/badge/Lớp-CTK46B-9ECE6A?style=for-the-badge&labelColor=1a1b27" alt="class" />
+
+<br/><br/>
+
+<a href="https://www.facebook.com/thaitaka.2024" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-thaitaka.2024-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1b27" alt="Facebook" />
+</a>
+<a href="https://taka-portfolio-kq32.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-taka--portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" alt="Portfolio" />
+</a>
+<a href="mailto:lethanhthai0805@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Liên%20hệ-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email" />
+</a>
+
 </div>
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 👋 Về mình
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
-<!-- Badge GitHub Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=ThaiTaka&theme=dark)](https://git.io/streak-stats)
-### 🛰️ Hệ Thống Module Taka (JSON View)
+Xin chào, mình là **Lê Thành Thái**, hay còn gọi là **Taka**. Hiện mình là sinh viên CNTT lớp **CTK46B**, Trường Đại học Đà Lạt. Mình thích xây dựng những sản phẩm nằm giữa lập trình và đồ họa — từ web 3D, game, cho tới các dự án nhỏ về AI/Computer Vision.
 
 ```json
 {
   "name": "Lê Thành Thái (aka Taka)",
-  "vitals": {
-    "age": "CalculatedAtRunTime",
-    "loc": "Đà Lạt, VN 🇻🇳"
-  },
+  "location": "Đà Lạt, VN 🇻🇳",
+  "role": "Senior IT Student",
   "modules": [
-    {
-      "code": "Web3D",
-      "status": "Active",
-      "main_projects": ["TakaVision"]
-    },
-    {
-      "code": "GameDev",
-      "status": "Idle",
-      "main_projects": ["The Call Beneath"]
-    },
-    {
-      "code": "AI_ML",
-      "status": "Researching",
-      "focus": ["Computer Vision", "YOLO"]
-    }
+    { "code": "Web3D",  "status": "Active",      "project": "TakaVision" },
+    { "code": "GameDev","status": "Idle",        "project": "The Call Beneath" },
+    { "code": "AI_ML",  "status": "Researching", "focus": ["Computer Vision", "YOLO"] }
   ],
-  "learning_loop": [
-    "Design Patterns",
-    "Teaching Python/JS",
-    "Advanced WebGL"
-  ]
+  "learning_loop": ["Design Patterns", "Teaching Python/JS", "Advanced WebGL"]
 }
+```
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,unity,cs,git,figma&theme=dark" alt="tech stack" />
+</div>
+
+<br/>
+
+## 🏙️ Contribution Grid
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Taka 3D Contribution Grid" width="100%" />
+</div>
+
+> Grid này tự cập nhật mỗi ngày qua GitHub Action [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) đã cấu hình sẵn trong repo — không cần đụng vào.
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ThaiTaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=c9d1d9" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaiTaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7AA2F7&text_color=c9d1d9" width="34%" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ThaiTaka&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="GitHub Streak" width="70%" />
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThaiTaka&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ThaiTaka&label=Profile%20views&color=7AA2F7&style=flat" alt="profile views" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" alt="footer" />
+
+</div>
