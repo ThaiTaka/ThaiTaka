@@ -1,10 +1,6 @@
 <!-- BANNER CHÍNH ĐỘNG (Bạn có thể thay link GIF này bằng cái bạn thích) -->
-
-
-
 <div align="center">
 <div align="center">
-  <h3>🏙️ My Commit City (3D Cyberpunk View)</h3>
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="Taka 3D City" width="100%" />
 </div>
 <!-- HIỆU ỨNG GÕ CHỮ (Màu xanh neon đậm chất IT) -->
