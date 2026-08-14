@@ -70,7 +70,7 @@ Xin chào, mình là **Lê Thành Thái**, hay còn gọi là **Taka**. Hiện m
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="Taka 3D Contribution Grid" width="100%" />
 </div>
 
-> Grid này tự cập nhật mỗi ngày qua GitHub Action [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) đã cấu hình sẵn trong repo — không cần đụng vào.
+
 
 <br/>
 
@@ -78,9 +78,18 @@ Xin chào, mình là **Lê Thành Thái**, hay còn gọi là **Taka**. Hiện m
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ThaiTaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=c9d1d9" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaiTaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7AA2F7&text_color=c9d1d9" width="34%" alt="Top Languages" />
-
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=ThaiTaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=c9d1d9"
+    width="49%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ThaiTaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7AA2F7&text_color=c9d1d9"
+    width="34%"
+    alt="Top Languages"
+  />
+</p>
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=ThaiTaka&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="GitHub Streak" width="70%" />
@@ -92,17 +101,19 @@ Xin chào, mình là **Lê Thành Thái**, hay còn gọi là **Taka**. Hiện m
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThaiTaka&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=ThaiTaka&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ThaiTaka&label=Profile%20views&color=7AA2F7&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=ThaiTaka&label=Profile%20views&color=7AA2F7&style=flat" alt="Profile views" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
