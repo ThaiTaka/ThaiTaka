@@ -39,19 +39,20 @@
 
 Xin chào, mình là **Lê Thành Thái**, hay còn gọi là **Taka**. Hiện mình là sinh viên CNTT lớp **CTK46B**, Trường Đại học Đà Lạt. Mình thích xây dựng những sản phẩm nằm giữa lập trình và đồ họa — từ web 3D, game, cho tới các dự án nhỏ về AI/Computer Vision.
 
-```json
-{
-  "name": "Lê Thành Thái (aka Taka)",
-  "location": "Đà Lạt, VN 🇻🇳",
-  "role": "Senior IT Student",
-  "modules": [
-    { "code": "Web3D",  "status": "Active",      "project": "TakaVision" },
-    { "code": "GameDev","status": "Idle",        "project": "The Call Beneath" },
-    { "code": "AI_ML",  "status": "Researching", "focus": ["Computer Vision", "YOLO"] }
-  ],
-  "learning_loop": ["Design Patterns", "Teaching Python/JS", "Advanced WebGL"]
-}
-```
+<div align="center">
+
+| Module | Trạng thái | Đang làm gì |
+|:---:|:---:|:---|
+| 🌐 **Web3D** | ![Active](https://img.shields.io/badge/-Active-9ECE6A?style=flat-square&labelColor=1a1b27) | TakaVision |
+| 🎮 **GameDev** | ![Idle](https://img.shields.io/badge/-Idle-565f89?style=flat-square&labelColor=1a1b27) | The Call Beneath |
+| 🤖 **AI / ML** | ![Researching](https://img.shields.io/badge/-Researching-7AA2F7?style=flat-square&labelColor=1a1b27) | Computer Vision · YOLO |
+
+</div>
+
+🔁 **Đang học thêm:**
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-BB9AF7?style=flat-square&labelColor=1a1b27)
+![Teaching Python/JS](https://img.shields.io/badge/Teaching%20Python%2FJS-7AA2F7?style=flat-square&labelColor=1a1b27)
+![Advanced WebGL](https://img.shields.io/badge/Advanced%20WebGL-9ECE6A?style=flat-square&labelColor=1a1b27)
 
 <br/>
 
