@@ -10,7 +10,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=L%C3%AA%20Th%C3%A0nh%20Th%C3%A1i%20%C2%B7%20Taka&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20IT%20Student%20%C2%B7%20%C4%90%C3%A0%20L%E1%BA%A1t%2C%20Vi%E1%BB%87t%20Nam&descAlignY=58&descAlign=50" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=Sinh+vi%C3%AAn+CNTT+-+CTK46B+-+%C4%90H+%C4%90%C3%A0+L%E1%BA%A1t;Building+TakaVision+(Web3D+%2F+Unity);Kh%C3%A1m+ph%C3%A1+Computer+Vision+%26+YOLO;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=Sinh+vi%C3%AAn+CNTT+-+CTK46B+-+%C4%90H+%C4%90%C3%A0+L%E1%BA%A1t;Building+Web+Apps+(JS+%2F+TS);Kh%C3%A1m+ph%C3%A1+Computer+Vision+%26+YOLO;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -37,13 +37,13 @@
 
 ## 👋 Về mình
 
-Xin chào, mình là **Lê Thành Thái**, hay còn gọi là **Taka**. Hiện mình là sinh viên CNTT lớp **CTK46B**, Trường Đại học Đà Lạt. Mình thích xây dựng những sản phẩm nằm giữa lập trình và đồ họa — từ web 3D, game, cho tới các dự án nhỏ về AI/Computer Vision.
+Xin chào, mình là **Lê Thành Thái**, hay còn gọi là **Taka**. Hiện mình là sinh viên CNTT lớp **CTK46B**, Trường Đại học Đà Lạt. Mình thích xây dựng những sản phẩm nằm giữa lập trình và đồ họa — từ web, game, cho tới các dự án nhỏ về AI/Computer Vision.
 
 <div align="center">
 
 | Module | Trạng thái | Đang làm gì |
 |:---:|:---:|:---|
-| 🌐 **Web3D** | ![Active](https://img.shields.io/badge/-Active-9ECE6A?style=flat-square&labelColor=1a1b27) | TakaVision |
+| 🌐 **Web Dev** | ![Active](https://img.shields.io/badge/-Active-9ECE6A?style=flat-square&labelColor=1a1b27) | AgriXFarmer · eparking |
 | 🎮 **GameDev** | ![Idle](https://img.shields.io/badge/-Idle-565f89?style=flat-square&labelColor=1a1b27) | The Call Beneath |
 | 🤖 **AI / ML** | ![Researching](https://img.shields.io/badge/-Researching-7AA2F7?style=flat-square&labelColor=1a1b27) | Computer Vision · YOLO |
 
@@ -53,6 +53,24 @@ Xin chào, mình là **Lê Thành Thái**, hay còn gọi là **Taka**. Hiện m
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-BB9AF7?style=flat-square&labelColor=1a1b27)
 ![Teaching Python/JS](https://img.shields.io/badge/Teaching%20Python%2FJS-7AA2F7?style=flat-square&labelColor=1a1b27)
 ![Advanced WebGL](https://img.shields.io/badge/Advanced%20WebGL-9ECE6A?style=flat-square&labelColor=1a1b27)
+
+<br/>
+
+## 🚀 Các dự án tiêu biểu (Featured Projects)
+
+Dưới đây là 3 "đứa con tinh thần" mình tâm đắc nhất, đại diện cho những công nghệ cốt lõi mình đang theo đuổi:
+
+### 🌾 [AgriXFarmer](https://github.com/ThaiTaka/AgriXFarmer)
+* **Công nghệ chính:** HTML, CSS, JavaScript
+* **Mô tả:** *(Bạn điền 1-2 câu mô tả về nền tảng nông nghiệp này vào đây)*
+
+### 🐙 [The-Call-Beneath](https://github.com/ThaiTaka/The-Call-Beneath)
+* **Công nghệ chính:** JavaScript
+* **Mô tả:** *(Bạn điền 1-2 câu mô tả cốt truyện/tính năng của game/ứng dụng này vào đây)*
+
+### 🅿️ [eparking](https://github.com/ThaiTaka/eparking)
+* **Công nghệ chính:** TypeScript
+* **Mô tả:** *(Bạn điền 1-2 câu mô tả về hệ thống quản lý bãi đỗ xe thông minh này vào đây)*
 
 <br/>
 
@@ -69,8 +87,6 @@ Xin chào, mình là **Lê Thành Thái**, hay còn gọi là **Taka**. Hiện m
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="Taka 3D Contribution Grid" width="100%" />
 </div>
-
-
 
 <br/>
 
